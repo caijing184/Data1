@@ -1,0 +1,23 @@
+# 数据分析基础
+pandas>=1.5.0
+numpy>=1.23.0
+
+# 机器学习
+scikit-learn>=1.2.0
+
+# 可视化
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# 统计分析
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Web框架
+flask>=2.3.0
+jinja2>=3.1.0
+markdown>=3.4.0
+
+# 其他
+joblib>=1.2.0
